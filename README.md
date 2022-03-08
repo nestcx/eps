@@ -1,6 +1,7 @@
+eps = editable package skeleton
+
 This project demonstrates the minimum configuration required in order to build and install a python package (or distribution rather) in editable/development mode.
 
-eps = editable package skeleton
 
 ```
 eps/
@@ -12,7 +13,7 @@ eps/
         example1.py
 ```
 
-How to import the game api into the example modules?
+How do you import the game api into the example modules?
 
 Do NOT edit the sys.path variable.
 
