@@ -19,7 +19,7 @@ Do NOT edit the sys.path variable.
 
 <br>
 
-Solution:  create a distribution and install it locally on your system in development/editable mode.
+Solution:  create a distribution/package and install it locally on your system in development/editable mode.
 
 Three new files are required:
 
